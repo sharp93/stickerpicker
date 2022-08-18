@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "PEPEtop.json",
+    "yadaun123.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
